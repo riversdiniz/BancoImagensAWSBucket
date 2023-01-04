@@ -1,5 +1,4 @@
-# Ler Nomes de Imagens de um
-Bucket S3
+# Ler Nomes de Imagens de um Bucket S3
 
 • Inventariar estas Imagens em
 um Banco de Dados
